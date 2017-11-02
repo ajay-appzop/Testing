@@ -1,4 +1,2 @@
 password
 abcd1234
-test1
-12
